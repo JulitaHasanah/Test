@@ -1,5 +1,6 @@
 > Nama : Julita Hasanah <br>
 > Nim : 2110131120005
+> Prodi : Pendidikan Komputer
 
 <img align=right width=240px height=240px style="margin:10px" src="img/chapter.png">
 
